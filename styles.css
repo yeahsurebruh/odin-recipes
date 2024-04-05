@@ -1,0 +1,10 @@
+/*styles.css*/
+
+#main-heading {
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+}
+
+.dish-list {
+    font-family: Arial, Helvetica, sans-serif;
+}
