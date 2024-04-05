@@ -1,0 +1,15 @@
+img{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.description{
+    font-family: monospace;
+}
